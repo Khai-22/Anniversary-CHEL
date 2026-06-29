@@ -38,9 +38,8 @@ body{
 
     background:
 
-        linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.35)),
-
-        url('B2E36D7D-DBF6-4B82-BE45-F486778B59E3.jpeg');
+        linear-gradient(rgba(0,0,0,.45), rgba(0,0,0,.45)),
+    url('photo.jpg');
 
     background-size:cover;
 
